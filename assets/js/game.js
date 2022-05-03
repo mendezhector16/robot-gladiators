@@ -31,6 +31,7 @@ var fightOrSkip = function(){
             fightOrSkip();
         }
     }
+    
 }
 
 // fight function (now with parameter for enemy's name)
